@@ -1,0 +1,8 @@
+
+{
+  "name": "LeesMeester Groep 6",
+  "description": "Een interactieve app voor leerlingen in groep 6 om begrijpend lezen te oefenen met eigen teksten of PDF's.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
